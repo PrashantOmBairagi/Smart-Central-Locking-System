@@ -1,4 +1,4 @@
-# Smart-Central-Locking-System
+
 A smart, flexible central locking system for Alto 800
 # Smart Car Central Locking System for Alto 800
 
@@ -118,7 +118,7 @@ Assumptions:
 **Key Points:**
 
 * RF RX data pin t → digital pin on Pro Mini
-* Pro Mini digital 7/8→ Motor Driver A1/A2 → actuator&#x20;
+* Pro Mini digital 7/8→ Motor Driver A1/A2 → actuator;
 * Power decoupled with 10 μF & 0.1 μF caps
 
 ---
@@ -185,6 +185,6 @@ Free to Use
 
 **Prashant Bairagi**
 Electronics Engineering Student, Jabalpur Engineering College (RGPV Bhopal)
-LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/)
+LinkedIn: [https://www.linkedin.com/in/](www.linkedin.com/in/prashant-bairagi-kmlpr)
 
 *Built with curiosity, persistence, and a will to learn.*
